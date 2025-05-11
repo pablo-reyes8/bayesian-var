@@ -31,6 +31,8 @@ Install via:
 ```bash
 pip install pandas numpy scipy matplotlib
 ```
+## License
+Pablo Reyes
 
 References: 
 
