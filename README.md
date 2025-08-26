@@ -1,5 +1,14 @@
 # Bayesian VAR (BVAR) with Conjugate Priors
 
+
+![Repo size](https://img.shields.io/github/repo-size/pablo-reyes8/bayesian-var)
+![Last commit](https://img.shields.io/github/last-commit/pablo-reyes8/bayesian-var)
+![Open issues](https://img.shields.io/github/issues/pablo-reyes8/bayesian-var)
+![Contributors](https://img.shields.io/github/contributors/pablo-reyes8/bayesian-var)
+![Forks](https://img.shields.io/github/forks/pablo-reyes8/bayesian-var?style=social)
+![Stars](https://img.shields.io/github/stars/pablo-reyes8/bayesian-var?style=social)
+
+
 A Python implementation of a standard Bayesian Vector Autoregression (VAR) with conjugate Normal–Inverse–Wishart priors and Minnesota hyperparameter structure. This repository provides routines for:
 
 - Specifying and estimating a VAR($p$) model  
