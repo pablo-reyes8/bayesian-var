@@ -41,8 +41,7 @@ pip install -e .
 ```
 
 Prepare the quarterly data:
-```bash
-python - <<'PY'
+```python
 import pandas as pd
 df = pd.read_excel('data/raw/Tes-Bills Final.xlsx')
 df['Fecha'] = pd.to_datetime(df['Fecha'])
